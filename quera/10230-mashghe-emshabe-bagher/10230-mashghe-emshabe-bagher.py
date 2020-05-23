@@ -1,3 +1,5 @@
+# https://quera.ir/problemset/contest/10230/سؤال-مشق-امشب-باقر
+
 n = input()
 angles = n.split(" ")
 result = "No"

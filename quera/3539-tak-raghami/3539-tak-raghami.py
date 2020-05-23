@@ -1,3 +1,5 @@
+#  https: // quera.ir/problemset/contest/3539/سؤال-تکرقمی
+
 n = int(input())
 
 
