@@ -10,8 +10,8 @@ def fib(x):
     return fib_list
 
 
-fib_list = fib(inp)
 output = ""
+fib_list = fib(inp)
 for i in range(1, inp+1):
     if i in fib_list:
         output += "+"
