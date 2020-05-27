@@ -8,5 +8,9 @@ width = (n % x) // y
 output = -1
 if length*x + width*y == n:
     output = str(length) + " " + str(width)
-
+else:
+    width = n // y
+    length = (n % y) // x
+    if length*x + width*y == n:
+        output = str(length) + " " + str(width)
 print(output)
