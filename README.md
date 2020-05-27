@@ -1,5 +1,5 @@
 # solving
-My codes for programming problems will be here! just for fun and recall!
+My codes of programming problems! Just for fun and reminders!
 
 # websites:
 - [quera.ir](www.quera.ir)
