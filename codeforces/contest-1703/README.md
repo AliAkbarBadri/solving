@@ -4,7 +4,7 @@
 
 ✔️ &ensp; [B.	ICPC Balloons](https://codeforces.com/contest/1703/problem/B)
 
-⬜ &ensp; [C.	Cypher](https://codeforces.com/contest/1703/problem/C)
+✔️ &ensp; [C.	Cypher](https://codeforces.com/contest/1703/problem/C)
 
 ⬜ &ensp; [D.	Double Strings](https://codeforces.com/contest/1703/problem/D)
 
