@@ -8,7 +8,7 @@
 
 ✔️ &ensp; [D.	Double Strings](https://codeforces.com/contest/1703/problem/D)
 
-⬜ &ensp; [E.	Mirror Grid](https://codeforces.com/contest/1703/problem/E)
+✔️ &ensp; [E.	Mirror Grid](https://codeforces.com/contest/1703/problem/E)
 
 ✔️ &ensp; [F.	Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F)
 
