@@ -2,7 +2,7 @@
 
 ✔️ &ensp; [A. Marathon](https://codeforces.com/contest/1692/problem/A)
 
-⬜ &ensp; [B. All Distinct](https://codeforces.com/contest/1692/problem/B)
+✔️ &ensp; [B. All Distinct](https://codeforces.com/contest/1692/problem/B)
 
 ⬜ &ensp; [C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C)
 
@@ -14,4 +14,4 @@
 
 ⬜ &ensp; [G. 2^Sort](https://codeforces.com/contest/1692/problem/G) 
 
-⬜ &ensp; [G. Gambling](https://codeforces.com/contest/1692/problem/H) 
+⬜ &ensp; [H. Gambling](https://codeforces.com/contest/1692/problem/H) 
