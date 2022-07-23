@@ -1,6 +1,6 @@
 # [Contest 1676 (Div. 4)](https://codeforces.com/contest/1676)
 
-⬜ &ensp; [A. Lucky?](https://codeforces.com/contest/1676/problem/A)
+✔️ &ensp; [A. Lucky?](https://codeforces.com/contest/1676/problem/A)
 
 ⬜ &ensp; [B. Equal Candies](https://codeforces.com/contest/1676/problem/B)
 
