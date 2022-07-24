@@ -1,6 +1,6 @@
 # [Contest 1669 (Div. 4)](https://codeforces.com/contest/1669)
 
-✔️ &ensp; [A. Division?](https://codeforces.com/contest/1669/problem/A)
+✅ &ensp; [A. Division?](https://codeforces.com/contest/1669/problem/A)
 
 ⬜ &ensp; [B. Triple](https://codeforces.com/contest/1669/problem/B)
 

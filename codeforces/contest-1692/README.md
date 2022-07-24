@@ -1,8 +1,8 @@
 # [Contest 1692 (Div. 4)](https://codeforces.com/contest/1692)
 
-✔️ &ensp; [A. Marathon](https://codeforces.com/contest/1692/problem/A)
+✅ &ensp; [A. Marathon](https://codeforces.com/contest/1692/problem/A)
 
-✔️ &ensp; [B. All Distinct](https://codeforces.com/contest/1692/problem/B)
+✅ &ensp; [B. All Distinct](https://codeforces.com/contest/1692/problem/B)
 
 ⬜ &ensp; [C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C)
 
