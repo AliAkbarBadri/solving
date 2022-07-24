@@ -1,6 +1,6 @@
 # [Contest 1352 (Div. 4)](https://codeforces.com/contest/1352)
 
-⬜ &ensp; [A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)
+✅ &ensp; [A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)
 
 ⬜ &ensp; [B. Same Parity Summands](https://codeforces.com/contest/1352/problem/B)
 
