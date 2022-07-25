@@ -2,7 +2,7 @@
 
 ✅ &ensp; [A. Lucky?](https://codeforces.com/contest/1676/problem/A)
 
-⬜ &ensp; [B. Equal Candies](https://codeforces.com/contest/1676/problem/B)
+✅ &ensp; [B. Equal Candies](https://codeforces.com/contest/1676/problem/B)
 
 ⬜ &ensp; [C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)
 
