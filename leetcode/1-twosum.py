@@ -8,11 +8,10 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashmap = {}
         for idx, value in enumerate(nums):
+            idx2 = hashmap.get(target - value, -1)
+            if idx2 != -1:
+                return [idx2, idx]
             hashmap[value] = idx
-        for idx, value in enumerate(nums):
-            idx2 = hashmap.get(target - value)
-            if idx2 and idx2 != idx:
-                return [idx, idx2]
 
 
 sol = Solution()
