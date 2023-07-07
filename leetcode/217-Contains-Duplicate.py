@@ -5,11 +5,11 @@ from typing import List
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hashmap = {}
-        for idx, value in enumerate(nums):
-            if value in hashmap:
+        hashset = set()
+        for value in nums:
+            if value in hashset:
                 return True
-            hashmap[value] = idx
+            hashset.add(value)
         return False
     
 
