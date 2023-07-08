@@ -4,7 +4,7 @@
 ## Array
 ✅ &ensp; [Two Sum](https://leetcode.com/problems/two-sum/) `Easy`
 
-⬜ &ensp; [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `Easy`
+✅ &ensp; [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `Easy`
 
 ✅ &ensp; [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) `Easy`
 
@@ -213,7 +213,7 @@ Preorder and Inorder Traversal
 
 ## Sliding Window
 
-⬜ &ensp; [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)	
+✅ &ensp; [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `Easy`
 
 ⬜ &ensp; Longest Substring Without Repeating Characters	
 
