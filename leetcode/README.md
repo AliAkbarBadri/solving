@@ -59,6 +59,7 @@
 ⬜ &ensp; Jump Game
 
 ## Graph
+
 ⬜ &ensp; Clone Graph
 
 ⬜ &ensp; Course Schedule
@@ -76,6 +77,7 @@
 ⬜ &ensp; Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
 ## Interval
+
 ⬜ &ensp; Insert Interval
 
 ⬜ &ensp; Merge Intervals
@@ -120,7 +122,7 @@ Replacement
 
 ⬜ &ensp; Minimum Window Substring
 
-⬜ &ensp; Valid Anagram
+⬜ &ensp; [Valid Anagram](https://leetcode.com/problems/valid-anagram/) `Easy`
 
 ⬜ &ensp; Group Anagrams
 
@@ -183,7 +185,7 @@ Preorder and Inorder Traversal
 
 ✅ &ensp; [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)	`Easy`
 
-⬜ &ensp; Valid Anagram	
+⬜ &ensp; [Valid Anagram](https://leetcode.com/problems/valid-anagram/) `Easy`	
 
 ✅ &ensp; [Two Sum](https://leetcode.com/problems/two-sum/) `Easy`
 
