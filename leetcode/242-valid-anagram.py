@@ -5,14 +5,13 @@ from typing import List
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        hashmap_s = {}
-        hashmap_t = {}
+        hashmap = {}
         if len(s) != len(t) or set(s) != set(t):
             return False
         for char_s, char_t in zip(s,t):
-            hashmap_s[char_s] = hashmap_s.get(char_s,0)+1
-            hashmap_t[char_t] = hashmap_t.get(char_t,0)+1
-        return hashmap_s == hashmap_t
+            hashmap[char_s] = hashmap.get(char_s,0)+1
+            hashmap[char_t] = hashmap.get(char_t,0)-1
+        return not any(hashmap.values())
 
 
 sol = Solution()
