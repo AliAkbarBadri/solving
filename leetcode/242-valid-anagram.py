@@ -1,18 +1,14 @@
 # https://leetcode.com/problems/valid-anagram/
 
-from typing import List
+from collections import Counter
 
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        hashmap = {}
-        if len(s) != len(t) or set(s) != set(t):
-            return False
-        for char_s, char_t in zip(s,t):
-            hashmap[char_s] = hashmap.get(char_s,0)+1
-            hashmap[char_t] = hashmap.get(char_t,0)-1
-        return not any(hashmap.values())
-
+        # Runtime 58 ms, Memory 16.8 MB
+        return Counter(s) == Counter(t)
+        #Runtime 72 ms, Memory 17.5 MB
+        #return sorted(s) == sorted(t)
 
 sol = Solution()
 assert (sol.isAnagram(s="anagram", t="nagaram") == True)
