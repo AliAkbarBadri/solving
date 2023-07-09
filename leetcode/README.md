@@ -114,11 +114,9 @@
 
 ## String
 
-⬜ &ensp; [Longest Substring Without 
-Repeating Characters]() `Medium`
+⬜ &ensp; [Longest Substring Without Repeating Characters]() `Medium`
 
-⬜ &ensp; [Longest Repeating Character 
-Replacement]() `Medium`
+⬜ &ensp; [Longest Repeating Character Replacement]() `Medium`
 
 ⬜ &ensp; [Minimum Window Substring]() `Hard`
 
@@ -128,7 +126,7 @@ Replacement]() `Medium`
 
 ⬜ &ensp; [Valid Parentheses]() `Easy`
 
-⬜ &ensp; [Valid Palindrome]() `Medium`
+✅ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
 
 ⬜ &ensp; [Longest Palindromic Substring]() `Medium`
 
@@ -146,15 +144,13 @@ Replacement]() `Medium`
 
 ⬜ &ensp; [Binary Tree Maximum Path Sum]() `Hard`
 
-⬜ &ensp; [Binary Tree Level Order 
-Traversal]() `Medium`
+⬜ &ensp; [Binary Tree Level Order Traversal]() `Medium`
 
 ⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
 
 ⬜ &ensp; [Subtree of Another Tree]() `Medium`
 
-⬜ &ensp; [Construct Binary Tree from 
-Preorder and Inorder Traversal]() `Medium`
+⬜ &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]() `Medium`
 
 ⬜ &ensp; [Validate Binary Search Tree]() `Medium`
 
@@ -203,7 +199,7 @@ Preorder and Inorder Traversal]() `Medium`
 
 ## Two Pointers 
 
-⬜ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
+✅ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
 
 ⬜ &ensp; [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) `Medium`
 
