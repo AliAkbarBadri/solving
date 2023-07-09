@@ -36,7 +36,7 @@
 
 ## Dynamic Programming
 
-⬜ &ensp; [Climbing Stairs]() `Easy`
+✅ &ensp; [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy`
 
 ⬜ &ensp; [Coin Change]() `Medium`
 
@@ -84,17 +84,17 @@
 
 ⬜ &ensp; [Non-overlapping Intervals]() `Medium`
 
-⬜ &ensp; [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) `Medium`
+⬜ &ensp; [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) `Easy`
 
 ⬜ &ensp; [Meeting Rooms II (Leetcode Premium)](https://www.lintcode.com/problem/919/) `Medium`
 
 ## Linked List
 
-⬜ &ensp; [Reverse a Linked List]() `Medium`
+⬜ &ensp; [Reverse a Linked List]() `Easy`
 
-⬜ &ensp; [Detect Cycle in a Linked List]() `Medium`
+⬜ &ensp; [Linked List Cycle]() `Easy`
 
-⬜ &ensp; [Merge Two Sorted Lists]() `Medium`
+⬜ &ensp; [Merge Two Sorted Lists]() `Easy`
 
 ⬜ &ensp; [Merge K Sorted Lists]() `Medium`
 
@@ -140,7 +140,7 @@
 
 ⬜ &ensp; [Same Tree]() `Easy`
 
-⬜ &ensp; [Invert/Flip Binary Tree]() `Medium`
+⬜ &ensp; [Invert/Flip Binary Tree]() `Easy`
 
 ⬜ &ensp; [Binary Tree Maximum Path Sum]() `Hard`
 
@@ -148,7 +148,7 @@
 
 ⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
 
-⬜ &ensp; [Subtree of Another Tree]() `Medium`
+⬜ &ensp; [Subtree of Another Tree]() `Easy`
 
 ⬜ &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]() `Medium`
 
@@ -399,7 +399,7 @@
 
 ## 1-D Dynamic Programming
 
-⬜ &ensp; [Climbing Stairs]() `Easy` 
+✅ &ensp; [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy` 
 
 ⬜ &ensp; [Min Cost Climbing Stairs]() `Easy` 
 
@@ -463,7 +463,7 @@
 
 ⬜ &ensp; [Partition Labels]() `Medium` 
 
-⬜ &ensp; [Valid Parenthesis String]() `Medium` 
+⬜ &ensp; [Valid Parenthesis String](https://leetcode.com/problems/valid-parentheses/) `Easy` 
 
 ## Intervals
 
