@@ -240,3 +240,5 @@ dmypy.json
 
 .DS_Store
 .vscode
+
+leetcode/test.py

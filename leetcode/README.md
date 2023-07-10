@@ -124,7 +124,7 @@
 
 ⬜ &ensp; [Group Anagrams]() `Medium`
 
-⬜ &ensp; [Valid Parentheses]() `Easy`
+✅ &ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `Easy`
 
 ✅ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
 
@@ -225,9 +225,9 @@
 
 ## Stack
 
-⬜ &ensp; [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `Easy`
+✅ &ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `Easy`
 
-⬜ &ensp; [Min Stack](https://leetcode.com/problems/valid-parentheses/) `Medium`
+⬜ &ensp; [Min Stack](https://leetcode.com/problems/min-stack/) `Medium`
 
 ⬜ &ensp; [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) `Medium`
 
@@ -463,7 +463,7 @@
 
 ⬜ &ensp; [Partition Labels]() `Medium` 
 
-⬜ &ensp; [Valid Parenthesis String](https://leetcode.com/problems/valid-parentheses/) `Easy` 
+⬜ &ensp; [Valid Parenthesis String](https://leetcode.com/problems/valid-parentheses/) `Medium` 
 
 ## Intervals
 
