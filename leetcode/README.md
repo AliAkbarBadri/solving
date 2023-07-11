@@ -90,7 +90,7 @@
 
 ## Linked List
 
-⬜ &ensp; [Reverse a Linked List]() `Easy`
+✅ &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) `Easy` 
 
 ⬜ &ensp; [Linked List Cycle]() `Easy`
 
@@ -257,7 +257,7 @@
 
 ## Linked List
 
-⬜ &ensp; [Reverse Linked List]() `Easy` 
+✅ &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) `Easy` 
 
 ⬜ &ensp; [Merge Two Sorted Lists]() `Easy` 
 
