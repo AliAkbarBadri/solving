@@ -94,7 +94,7 @@
 
 ⬜ &ensp; [Linked List Cycle]() `Easy`
 
-⬜ &ensp; [Merge Two Sorted Lists]() `Easy`
+✅ &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `Easy`
 
 ⬜ &ensp; [Merge K Sorted Lists]() `Medium`
 
@@ -259,7 +259,7 @@
 
 ✅ &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) `Easy` 
 
-⬜ &ensp; [Merge Two Sorted Lists]() `Easy` 
+✅ &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `Easy`
 
 ⬜ &ensp; [Reorder List]() `Medium` 
 

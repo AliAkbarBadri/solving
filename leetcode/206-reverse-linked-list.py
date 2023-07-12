@@ -1,20 +1,6 @@
 # https://leetcode.com/problems/reverse-linked-list/
 from typing import Optional
-
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-    def __str__(self):
-        curr = self
-        string = ""
-        while curr:
-            string += f"{curr.val} -> "
-            curr = curr.next
-        return string
-
+from linked_list import ListNode, convert_list_to_linkedlist
 
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
@@ -28,8 +14,7 @@ class Solution:
 
 
 sol = Solution()
-print(sol.reverseList(head=ListNode(val=1, next=ListNode(val=2, next=ListNode(
-    val=3, next=ListNode(val=4, next=ListNode(val=5, next=None)))))))
-print(sol.reverseList(head=ListNode(val= 1, next= ListNode(val= 2, next= None))))
-print(sol.reverseList(head=None))
+print(sol.reverseList(convert_list_to_linkedlist([1,2,3,4,5])))
+print(sol.reverseList(convert_list_to_linkedlist([1,2])))
+print(sol.reverseList(convert_list_to_linkedlist([])))
 
