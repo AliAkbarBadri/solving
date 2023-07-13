@@ -140,7 +140,7 @@
 
 ⬜ &ensp; [Same Tree]() `Easy`
 
-⬜ &ensp; [Invert/Flip Binary Tree]() `Easy`
+✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
 
 ⬜ &ensp; [Binary Tree Maximum Path Sum]() `Hard`
 
@@ -281,7 +281,7 @@
 
 ## Trees
 
-⬜ &ensp; [Invert Binary Tree]() `Easy` 
+✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
 
 ⬜ &ensp; [Maximum Depth of Binary Tree]() `Easy` 
 
