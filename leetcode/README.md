@@ -92,7 +92,7 @@
 
 ✅ &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) `Easy` 
 
-⬜ &ensp; [Linked List Cycle]() `Easy`
+✅ &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `Easy` 
 
 ✅ &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `Easy`
 
@@ -269,7 +269,7 @@
 
 ⬜ &ensp; [Add Two Numbers]() `Medium` 
 
-⬜ &ensp; [Linked List Cycle]() `Easy` 
+✅ &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `Easy` 
 
 ⬜ &ensp; [Find The Duplicate Number]() `Medium` 
 
