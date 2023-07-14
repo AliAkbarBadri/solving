@@ -136,7 +136,7 @@
 
 ## Tree
 
-⬜ &ensp; [Maximum Depth of Binary Tree]() `Easy`
+✅ &ensp; [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
 
 ⬜ &ensp; [Same Tree]() `Easy`
 
@@ -283,7 +283,7 @@
 
 ✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
 
-⬜ &ensp; [Maximum Depth of Binary Tree]() `Easy` 
+✅ &ensp; [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
 
 ⬜ &ensp; [Diameter of Binary Tree]() `Easy` 
 
