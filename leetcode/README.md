@@ -148,7 +148,7 @@
 
 ⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
 
-⬜ &ensp; [Subtree of Another Tree]() `Easy`
+✅ &ensp; [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
 
 ⬜ &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]() `Medium`
 
@@ -291,7 +291,7 @@
 
 ✅ &ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) `Easy`
 
-⬜ &ensp; [Subtree of Another Tree]() `Easy` 
+✅ &ensp; [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
 
 ⬜ &ensp; [Lowest Common Ancestor of a Binary Search Tree]() `Medium` 
 

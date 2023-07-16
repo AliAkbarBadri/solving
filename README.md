@@ -1,5 +1,7 @@
 # solving
-My solves for some programming problems and stuff! Just for fun!
+solve for fun!
 
 # websites:
+- [leetcode.com](www.leetcode.com)
+- [codeforces.com](www.codeforces.com)
 - [quera.ir](www.quera.ir)
