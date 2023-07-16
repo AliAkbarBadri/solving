@@ -36,7 +36,7 @@
 
 ## Dynamic Programming
 
-✅ &ensp; [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy`
+✅ &ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy`
 
 ⬜ &ensp; [Coin Change]() `Medium`
 
@@ -70,21 +70,21 @@
 
 ⬜ &ensp; [Longest Consecutive Sequence]() `Medium`
 
-⬜ &ensp; [Alien Dictionary (Leetcode Premium)](https://www.lintcode.com/problem/892/) `Hard`
-
 ⬜ &ensp; [Graph Valid Tree (Leetcode Premium)](https://www.lintcode.com/problem/178/) `Medium`
 
 ⬜ &ensp; [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://www.lintcode.com/problem/591/) `Medium`
 
+⬜ &ensp; [Alien Dictionary (Leetcode Premium)](https://www.lintcode.com/problem/892/) `Hard`
+
 ## Interval
+
+⬜ &ensp; [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) `Easy`
 
 ⬜ &ensp; [Insert Interval]() `Medium`
 
 ⬜ &ensp; [Merge Intervals]() `Medium`
 
 ⬜ &ensp; [Non-overlapping Intervals]() `Medium`
-
-⬜ &ensp; [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) `Easy`
 
 ⬜ &ensp; [Meeting Rooms II (Leetcode Premium)](https://www.lintcode.com/problem/919/) `Medium`
 
@@ -114,19 +114,17 @@
 
 ## String
 
-⬜ &ensp; [Longest Substring Without Repeating Characters]() `Medium`
-
-⬜ &ensp; [Longest Repeating Character Replacement]() `Medium`
-
-⬜ &ensp; [Minimum Window Substring]() `Hard`
-
 ✅ &ensp; [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) `Easy`
-
-⬜ &ensp; [Group Anagrams]() `Medium`
 
 ✅ &ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `Easy`
 
 ✅ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
+
+⬜ &ensp; [Longest Substring Without Repeating Characters]() `Medium`
+
+⬜ &ensp; [Longest Repeating Character Replacement]() `Medium`
+
+⬜ &ensp; [Group Anagrams]() `Medium`
 
 ⬜ &ensp; [Longest Palindromic Substring]() `Medium`
 
@@ -134,21 +132,21 @@
 
 ⬜ &ensp; [Encode and Decode Strings(Leetcode Premium)](https://www.lintcode.com/problem/659/) `Medium`
 
+⬜ &ensp; [Minimum Window Substring]() `Hard`
+
 ## Tree
 
-✅ &ensp; [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
+✅ &ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
 
 ✅ &ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) `Easy`
 
 ✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
 
+✅ &ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
+
 ⬜ &ensp; [Binary Tree Maximum Path Sum]() `Hard`
 
 ⬜ &ensp; [Binary Tree Level Order Traversal]() `Medium`
-
-⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
-
-✅ &ensp; [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
 
 ⬜ &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]() `Medium`
 
@@ -162,13 +160,15 @@
 
 ⬜ &ensp; [Add and Search Word]() `Medium`
 
+⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
+
 ⬜ &ensp; [Word Search II]() `Hard`
 
 ## Heap
 
-⬜ &ensp; [Merge K Sorted Lists]() `Hard`
-
 ⬜ &ensp; [Top K Frequent Elements]() `Medium`
+
+⬜ &ensp; [Merge K Sorted Lists]() `Hard`
 
 ⬜ &ensp; [Find Median from Data Stream]() `Hard`
 
@@ -241,7 +241,7 @@
 
 ## Binary Search
 
-✅ &ensp; [Binary Search](https://leetcode.com/problems/binary-search/) `Easy`
+✅ &ensp; [704. Binary Search](https://leetcode.com/problems/binary-search/) `Easy`
 
 ⬜ &ensp; [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) `Medium`
 
@@ -261,6 +261,8 @@
 
 ✅ &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `Easy`
 
+✅ &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `Easy` 
+
 ⬜ &ensp; [Reorder List]() `Medium` 
 
 ⬜ &ensp; [Remove Nth Node From End of List]() `Medium` 
@@ -268,8 +270,6 @@
 ⬜ &ensp; [Copy List With Random Pointer]() `Medium` 
 
 ⬜ &ensp; [Add Two Numbers]() `Medium` 
-
-✅ &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `Easy` 
 
 ⬜ &ensp; [Find The Duplicate Number]() `Medium` 
 
@@ -283,7 +283,7 @@
 
 ✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
 
-✅ &ensp; [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
+✅ &ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
 
 ⬜ &ensp; [Diameter of Binary Tree]() `Easy` 
 
@@ -291,7 +291,7 @@
 
 ✅ &ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) `Easy`
 
-✅ &ensp; [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
+✅ &ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
 
 ⬜ &ensp; [Lowest Common Ancestor of a Binary Search Tree]() `Medium` 
 
@@ -385,21 +385,21 @@
 
 ## Advanced Graphs
 
-⬜ &ensp; [Reconstruct Itinerary]() `Hard` 
-
 ⬜ &ensp; [Min Cost to Connect All Points]() `Medium` 
 
 ⬜ &ensp; [Network Delay Time]() `Medium` 
+
+⬜ &ensp; [Cheapest Flights Within K Stops]() `Medium` 
+
+⬜ &ensp; [Reconstruct Itinerary]() `Hard` 
 
 ⬜ &ensp; [Swim In Rising Water]() `Hard` 
 
 ⬜ &ensp; [Alien Dictionary](https://www.lintcode.com/problem/892/) `Hard` 
 
-⬜ &ensp; [Cheapest Flights Within K Stops]() `Medium` 
-
 ## 1-D Dynamic Programming
 
-✅ &ensp; [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy` 
+✅ &ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy` 
 
 ⬜ &ensp; [Min Cost Climbing Stairs]() `Easy` 
 
@@ -467,13 +467,13 @@
 
 ## Intervals
 
+⬜ &ensp; [Meeting Rooms](https://www.lintcode.com/problem/920/) `Easy` 
+
 ⬜ &ensp; [Insert Interval]() `Medium` 
 
 ⬜ &ensp; [Merge Intervals]() `Medium` 
 
 ⬜ &ensp; [Non Overlapping Intervals]() `Medium` 
-
-⬜ &ensp; [Meeting Rooms](https://www.lintcode.com/problem/920/) `Easy` 
 
 ⬜ &ensp; [Meeting Rooms II]() `Medium` 
 
@@ -481,15 +481,15 @@
 
 ## Math & Geometry
 
+⬜ &ensp; [Happy Number]() `Easy` 
+
+⬜ &ensp; [Plus One]() `Easy` 
+
 ⬜ &ensp; [Rotate Image]() `Medium` 
 
 ⬜ &ensp; [Spiral Matrix]() `Medium` 
 
 ⬜ &ensp; [Set Matrix Zeroes]() `Medium` 
-
-⬜ &ensp; [Happy Number]() `Easy` 
-
-⬜ &ensp; [Plus One]() `Easy` 
 
 ⬜ &ensp; [Pow(x, n)]() `Medium` 
 
