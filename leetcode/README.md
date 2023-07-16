@@ -241,7 +241,7 @@
 
 ## Binary Search
 
-⬜ &ensp; [Binary Search](https://leetcode.com/problems/binary-search/) `Easy`
+✅ &ensp; [Binary Search](https://leetcode.com/problems/binary-search/) `Easy`
 
 ⬜ &ensp; [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) `Medium`
 
