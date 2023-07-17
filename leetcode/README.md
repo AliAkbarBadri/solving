@@ -24,15 +24,15 @@
 
 ## Binary
 
-⬜ &ensp; [41. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=list&envId=rns8lfoe) `Easy`
+✅ &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) `Easy` 
 
-⬜ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=list&envId=rns8lfoe) `Easy`
+⬜ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy`
 
-⬜ &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number/?envType=list&envId=rns8lfoe) `Easy`
+⬜ &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) `Easy`
 
-⬜ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits/?envType=list&envId=rns8lfoe) `Easy`
+⬜ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) `Easy`
 
-⬜ &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/?envType=list&envId=rns8lfoe) `Medium`
+⬜ &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) `Medium`
 
 ## Dynamic Programming
 
@@ -70,15 +70,15 @@
 
 ⬜ &ensp; [Longest Consecutive Sequence]() `Medium`
 
-⬜ &ensp; [Graph Valid Tree (Leetcode Premium)](https://www.lintcode.com/problem/178/) `Medium`
+⬜ &ensp; [Graph Valid Tree 🔒](https://www.lintcode.com/problem/178/) `Medium`
 
-⬜ &ensp; [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://www.lintcode.com/problem/591/) `Medium`
+⬜ &ensp; [Number of Connected Components in an Undirected Graph 🔒](https://www.lintcode.com/problem/591/) `Medium`
 
-⬜ &ensp; [Alien Dictionary (Leetcode Premium)](https://www.lintcode.com/problem/892/) `Hard`
+⬜ &ensp; [Alien Dictionary 🔒](https://www.lintcode.com/problem/892/) `Hard`
 
 ## Interval
 
-⬜ &ensp; [Meeting Rooms (Leetcode Premium)](https://www.lintcode.com/problem/920/) `Easy`
+⬜ &ensp; [Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) `Easy`
 
 ⬜ &ensp; [Insert Interval]() `Medium`
 
@@ -86,7 +86,7 @@
 
 ⬜ &ensp; [Non-overlapping Intervals]() `Medium`
 
-⬜ &ensp; [Meeting Rooms II (Leetcode Premium)](https://www.lintcode.com/problem/919/) `Medium`
+⬜ &ensp; [Meeting Rooms II 🔒](https://www.lintcode.com/problem/919/) `Medium`
 
 ## Linked List
 
@@ -130,7 +130,7 @@
 
 ⬜ &ensp; [Palindromic Substrings]() `Medium`
 
-⬜ &ensp; [Encode and Decode Strings(Leetcode Premium)](https://www.lintcode.com/problem/659/) `Medium`
+⬜ &ensp; [Encode and Decode Strings🔒](https://www.lintcode.com/problem/659/) `Medium`
 
 ⬜ &ensp; [Minimum Window Substring]() `Hard`
 
@@ -193,7 +193,7 @@
 
 ⬜ &ensp; [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) `Medium`
 
-⬜ &ensp; [62. Encode and Decode Strings](https://www.lintcode.com/problem/659/) `Medium`
+⬜ &ensp; [62. Encode and Decode Strings 🔒](https://www.lintcode.com/problem/659/) `Medium`
 
 ⬜ &ensp; [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) `Medium`
 
@@ -395,7 +395,7 @@
 
 ⬜ &ensp; [Swim In Rising Water]() `Hard` 
 
-⬜ &ensp; [Alien Dictionary](https://www.lintcode.com/problem/892/) `Hard` 
+⬜ &ensp; [Alien Dictionary 🔒](https://www.lintcode.com/problem/892/) `Hard` 
 
 ## 1-D Dynamic Programming
 
@@ -467,7 +467,7 @@
 
 ## Intervals
 
-⬜ &ensp; [Meeting Rooms](https://www.lintcode.com/problem/920/) `Easy` 
+⬜ &ensp; [Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) `Easy` 
 
 ⬜ &ensp; [Insert Interval]() `Medium` 
 
@@ -501,7 +501,7 @@
 
 ⬜ &ensp; [Single Number]() `Easy` 
 
-⬜ &ensp; [Number of 1 Bits]() `Easy` 
+✅ &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) `Easy` 
 
 ⬜ &ensp; [Counting Bits]() `Easy` 
 
