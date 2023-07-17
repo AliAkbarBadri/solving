@@ -26,7 +26,7 @@
 
 ✅ &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) `Easy` 
 
-⬜ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy`
+✅ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy`
 
 ⬜ &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) `Easy`
 
@@ -503,7 +503,7 @@
 
 ✅ &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) `Easy` 
 
-⬜ &ensp; [Counting Bits]() `Easy` 
+✅ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy` 
 
 ⬜ &ensp; [Reverse Bits]() `Easy` 
 
