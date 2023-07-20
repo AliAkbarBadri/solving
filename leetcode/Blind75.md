@@ -1,171 +1,171 @@
 # 🧠  Blind 75
 ## Array
-✅ &ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/) `Easy`
+✅ `Easy` &ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/) 
 
-✅ &ensp; [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `Easy`
+✅ `Easy` &ensp; [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 
-✅ &ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) `Easy`
+✅ `Easy` &ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 
-⬜ &ensp; [242. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `Medium`
+⬜ `Medium` &ensp; [242. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-⬜ &ensp; [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `Medium`
+⬜ `Medium` &ensp; [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-⬜ &ensp; [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) `Medium`
+⬜ `Medium` &ensp; [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
-⬜ &ensp; [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `Medium`
+⬜ `Medium` &ensp; [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-⬜ &ensp; [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `Medium`
+⬜ `Medium` &ensp; [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-⬜ &ensp; [15. 3 Sum](https://leetcode.com/problems/3sum/) `Medium`
+⬜ `Medium` &ensp; [15. 3 Sum](https://leetcode.com/problems/3sum/)
 
-⬜ &ensp; [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) `Medium`
+⬜ `Medium` &ensp; [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ## Binary
 
-✅ &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) `Easy` 
+✅ `Easy` &ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) 
 
-✅ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy`
+✅ `Easy` &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) 
 
-✅ &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) `Easy`
+✅ `Easy` &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) 
 
-✅ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) `Easy`
+✅ `Easy` &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) 
 
-⬜ &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) `Medium`
+⬜ `Medium` &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 
 ## Dynamic Programming
 
-✅ &ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `Easy`
+✅ `Easy` &ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
 
-⬜ &ensp; [Coin Change]() `Medium`
+⬜ `Medium` &ensp; [Coin Change]()
 
-⬜ &ensp; [Longest Increasing Subsequence]() `Medium` 
+⬜ `Medium` &ensp; [Longest Increasing Subsequence]() 
 
-⬜ &ensp; [Longest Common Subsequence]() `Medium`
+⬜ `Medium` &ensp; [Longest Common Subsequence]()
 
-⬜ &ensp; [Word Break]() `Medium`
+⬜ `Medium` &ensp; [Word Break]()
 
-⬜ &ensp; [Combination Sum]() `Medium`
+⬜ `Medium` &ensp; [Combination Sum]()
 
-⬜ &ensp; [House Robber]() `Medium`
+⬜ `Medium` &ensp; [House Robber]()
 
-⬜ &ensp; [House Robber II]() `Medium`
+⬜ `Medium` &ensp; [House Robber II]()
 
-⬜ &ensp; [Decode Ways]() `Medium`
+⬜ `Medium` &ensp; [Decode Ways]()
 
-⬜ &ensp; [Unique Paths]() `Medium`
+⬜ `Medium` &ensp; [Unique Paths]()
 
-⬜ &ensp; [Jump Game]() `Medium`
+⬜ `Medium` &ensp; [Jump Game]()
 
 ## Graph
 
-⬜ &ensp; [Clone Graph]() `Medium`
+⬜ `Medium` &ensp; [Clone Graph]()
 
-⬜ &ensp; [Course Schedule]() `Medium`
+⬜ `Medium` &ensp; [Course Schedule]()
 
-⬜ &ensp; [Pacific Atlantic Water Flow]() `Medium`
+⬜ `Medium` &ensp; [Pacific Atlantic Water Flow]()
 
-⬜ &ensp; [Number of Islands]() `Medium`
+⬜ `Medium` &ensp; [Number of Islands]()
 
-⬜ &ensp; [Longest Consecutive Sequence]() `Medium`
+⬜ `Medium` &ensp; [Longest Consecutive Sequence]()
 
-⬜ &ensp; [Graph Valid Tree 🔒](https://www.lintcode.com/problem/178/) `Medium`
+⬜ `Medium` &ensp; [Graph Valid Tree 🔒](https://www.lintcode.com/problem/178/)
 
-⬜ &ensp; [Number of Connected Components in an Undirected Graph 🔒](https://www.lintcode.com/problem/591/) `Medium`
+⬜ `Medium` &ensp; [Number of Connected Components in an Undirected Graph 🔒](https://www.lintcode.com/problem/591/)
 
-⬜ &ensp; [Alien Dictionary 🔒](https://www.lintcode.com/problem/892/) `Hard`
+⬜ `Hard` &ensp; [Alien Dictionary 🔒](https://www.lintcode.com/problem/892/)
 
 ## Interval
 
-⬜ &ensp; [Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) `Easy`
+⬜ `Easy` &ensp; [Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) 
 
-⬜ &ensp; [Insert Interval]() `Medium`
+⬜ `Medium` &ensp; [Insert Interval]()
 
-⬜ &ensp; [Merge Intervals]() `Medium`
+⬜ `Medium` &ensp; [Merge Intervals]()
 
-⬜ &ensp; [Non-overlapping Intervals]() `Medium`
+⬜ `Medium` &ensp; [Non-overlapping Intervals]()
 
-⬜ &ensp; [Meeting Rooms II 🔒](https://www.lintcode.com/problem/919/) `Medium`
+⬜ `Medium` &ensp; [Meeting Rooms II 🔒](https://www.lintcode.com/problem/919/)
 
 ## Linked List
 
-✅ &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) `Easy` 
+✅ `Easy` &ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) 
 
-✅ &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `Easy` 
+✅ `Easy` &ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 
 
-✅ &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `Easy`
+✅ `Easy` &ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
 
-⬜ &ensp; [Merge K Sorted Lists]() `Medium`
+⬜ `Medium` &ensp; [Merge K Sorted Lists]()
 
-⬜ &ensp; [Remove Nth Node From End Of List]() `Medium`
+⬜ `Medium` &ensp; [Remove Nth Node From End Of List]()
 
-⬜ &ensp; [Reorder List]() `Medium`
+⬜ `Medium` &ensp; [Reorder List]()
 
 ## Matrix
 
-⬜ &ensp; [Set Matrix Zeroes]() `Medium`
+⬜ `Medium` &ensp; [Set Matrix Zeroes]()
 
-⬜ &ensp; [Spiral Matrix]() `Medium`
+⬜ `Medium` &ensp; [Spiral Matrix]()
 
-⬜ &ensp; [Rotate Image]() `Medium`
+⬜ `Medium` &ensp; [Rotate Image]()
 
-⬜ &ensp; [Word Search]() `Medium`
+⬜ `Medium` &ensp; [Word Search]()
 
 ## String
 
-✅ &ensp; [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) `Easy`
+✅ `Easy` &ensp; [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
 
-✅ &ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `Easy`
+✅ `Easy` &ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 
-✅ &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `Easy`
+✅ `Easy` &ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 
-⬜ &ensp; [Longest Substring Without Repeating Characters]() `Medium`
+⬜ `Medium` &ensp; [Longest Substring Without Repeating Characters]()
 
-⬜ &ensp; [Longest Repeating Character Replacement]() `Medium`
+⬜ `Medium` &ensp; [Longest Repeating Character Replacement]()
 
-⬜ &ensp; [Group Anagrams]() `Medium`
+⬜ `Medium` &ensp; [Group Anagrams]()
 
-⬜ &ensp; [Longest Palindromic Substring]() `Medium`
+⬜ `Medium` &ensp; [Longest Palindromic Substring]()
 
-⬜ &ensp; [Palindromic Substrings]() `Medium`
+⬜ `Medium` &ensp; [Palindromic Substrings]()
 
-⬜ &ensp; [Encode and Decode Strings🔒](https://www.lintcode.com/problem/659/) `Medium`
+⬜ `Medium` &ensp; [Encode and Decode Strings🔒](https://www.lintcode.com/problem/659/)
 
-⬜ &ensp; [Minimum Window Substring]() `Hard`
+⬜ `Hard` &ensp; [Minimum Window Substring]()
 
 ## Tree
 
-✅ &ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) `Easy` 
+✅ `Easy` &ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) 
 
-✅ &ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) `Easy`
+✅ `Easy` &ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) 
 
-✅ &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) `Easy` 
+✅ `Easy` &ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) 
 
-✅ &ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) `Easy` 
+✅ `Easy` &ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) 
 
-⬜ &ensp; [Binary Tree Maximum Path Sum]() `Hard`
+⬜ `Hard` &ensp; [Binary Tree Maximum Path Sum]()
 
-⬜ &ensp; [Binary Tree Level Order Traversal]() `Medium`
+⬜ `Medium` &ensp; [Binary Tree Level Order Traversal]()
 
-⬜ &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]() `Medium`
+⬜ `Medium` &ensp; [Construct Binary Tree from Preorder and Inorder Traversal]()
 
-⬜ &ensp; [Validate Binary Search Tree]() `Medium`
+⬜ `Medium` &ensp; [Validate Binary Search Tree]()
 
-⬜ &ensp; [Kth Smallest Element in a BST]() `Medium`
+⬜ `Medium` &ensp; [Kth Smallest Element in a BST]()
 
-⬜ &ensp; [Lowest Common Ancestor of BST]() `Medium`
+⬜ `Medium` &ensp; [Lowest Common Ancestor of BST]()
 
-⬜ &ensp; [Implement Trie (Prefix Tree)]() `Medium`
+⬜ `Medium` &ensp; [Implement Trie (Prefix Tree)]()
 
-⬜ &ensp; [Add and Search Word]() `Medium`
+⬜ `Medium` &ensp; [Add and Search Word]()
 
-⬜ &ensp; [Serialize and Deserialize Binary Tree]() `Hard`
+⬜ `Hard` &ensp; [Serialize and Deserialize Binary Tree]()
 
-⬜ &ensp; [Word Search II]() `Hard`
+⬜ `Hard` &ensp; [Word Search II]()
 
 ## Heap
 
-⬜ &ensp; [Top K Frequent Elements]() `Medium`
+⬜ `Medium` &ensp; [Top K Frequent Elements]()
 
-⬜ &ensp; [Merge K Sorted Lists]() `Hard`
+⬜ `Hard` &ensp; [Merge K Sorted Lists]()
 
-⬜ &ensp; [Find Median from Data Stream]() `Hard`
+⬜ `Hard` &ensp; [Find Median from Data Stream]()
