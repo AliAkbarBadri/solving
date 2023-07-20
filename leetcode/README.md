@@ -30,7 +30,7 @@
 
 ⬜ &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) `Easy`
 
-⬜ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) `Easy`
+✅ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) `Easy`
 
 ⬜ &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) `Medium`
 
@@ -505,7 +505,7 @@
 
 ✅ &ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) `Easy` 
 
-⬜ &ensp; [Reverse Bits]() `Easy` 
+✅ &ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) `Easy`
 
 ⬜ &ensp; [Missing Number]() `Easy` 
 
