@@ -110,7 +110,7 @@
 
 ⬜ `Easy ` &ensp;&ensp; [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) 
 
-⬜ `Easy ` &ensp;&ensp; [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 
+✅ `Easy ` &ensp;&ensp; [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) 
 
 ✅ `Easy ` &ensp;&ensp; [100. Same Tree](https://leetcode.com/problems/same-tree)
 
