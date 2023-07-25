@@ -146,7 +146,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [703.Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) 
+✅ `Easy` &ensp;&ensp;&ensp; [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) 
 
 ⬜ `Medium` &ensp; [K Closest Points to Origin]() 
 
