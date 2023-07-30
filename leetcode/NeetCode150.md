@@ -290,7 +290,7 @@
 
 ## Intervals
 
-⬜ `Easy` &ensp;&ensp;&ensp; [Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) 
+✅ `Easy` &ensp;&ensp;&ensp; [252. Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) 
 
 ⬜ `Medium` &ensp; [Insert Interval]() 
 
