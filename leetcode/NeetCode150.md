@@ -224,7 +224,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) 
+⬜ `Easy` &ensp;&ensp;&ensp; [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) 
 
 ⬜ `Medium` &ensp; [House Robber]() 
 
@@ -304,9 +304,9 @@
 
 ## Math & Geometry
 
-⬜ `Easy` &ensp;&ensp;&ensp; [Happy Number](https://leetcode.com/problems/happy-number/) 
+⬜ `Easy` &ensp;&ensp;&ensp; [202. Happy Number](https://leetcode.com/problems/happy-number/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [Plus One](https://leetcode.com/problems/plus-one/) 
+✅ `Easy` &ensp;&ensp;&ensp; [66. Plus One](https://leetcode.com/problems/plus-one/) 
 
 ⬜ `Medium` &ensp; [Rotate Image]() 
 
