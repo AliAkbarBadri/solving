@@ -304,7 +304,7 @@
 
 ## Math & Geometry
 
-⬜ `Easy` &ensp;&ensp;&ensp; [202. Happy Number](https://leetcode.com/problems/happy-number/) 
+✅ `Easy` &ensp;&ensp;&ensp; [202. Happy Number](https://leetcode.com/problems/happy-number/) 
 
 ✅ `Easy` &ensp;&ensp;&ensp; [66. Plus One](https://leetcode.com/problems/plus-one/) 
 
