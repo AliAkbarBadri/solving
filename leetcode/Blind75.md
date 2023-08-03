@@ -1,10 +1,10 @@
 # 🧠  Blind 75
 ## Array
-⬜ `Easy` &ensp;&ensp;&ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/) 
+✅ `Easy` &ensp;&ensp;&ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+✅ `Easy` &ensp;&ensp;&ensp; [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
+✅ `Easy` &ensp;&ensp;&ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 
 ⬜ `Medium` &ensp; [242. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
@@ -22,19 +22,19 @@
 
 ## Binary
 
-⬜ `Easy` &ensp;&ensp;&ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) 
+✅ `Easy` &ensp;&ensp;&ensp; [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) 
+✅ `Easy` &ensp;&ensp;&ensp; [67. Counting Bits](https://leetcode.com/problems/counting-bits) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) 
+✅ `Easy` &ensp;&ensp;&ensp; [60. Missing Number](https://leetcode.com/problems/missing-number) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) 
+✅ `Easy` &ensp;&ensp;&ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits) 
 
 ⬜ `Medium` &ensp; [69. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 
 ## Dynamic Programming
 
-⬜ `Easy` &ensp;&ensp;&ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
+✅ `Easy` &ensp;&ensp;&ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
 
 ⬜ `Medium` &ensp; [Coin Change]()
 
@@ -76,7 +76,7 @@
 
 ## Interval
 
-⬜ `Easy` &ensp;&ensp;&ensp; [252. Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) 
+✅ `Easy` &ensp;&ensp;&ensp; [252. Meeting Rooms 🔒](https://www.lintcode.com/problem/920/) 
 
 ⬜ `Medium` &ensp; [Insert Interval]()
 
@@ -88,11 +88,11 @@
 
 ## Linked List
 
-⬜ `Easy` &ensp;&ensp;&ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) 
+✅ `Easy` &ensp;&ensp;&ensp; [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 
+✅ `Easy` &ensp;&ensp;&ensp; [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
+✅ `Easy` &ensp;&ensp;&ensp; [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
 
 ⬜ `Medium` &ensp; [Merge K Sorted Lists]()
 
@@ -112,11 +112,11 @@
 
 ## String
 
-⬜ `Easy` &ensp;&ensp;&ensp; [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
+✅ `Easy` &ensp;&ensp;&ensp; [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
+✅ `Easy` &ensp;&ensp;&ensp; [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
+✅ `Easy` &ensp;&ensp;&ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 
 ⬜ `Medium` &ensp; [Longest Substring Without Repeating Characters]()
 
@@ -134,13 +134,13 @@
 
 ## Tree
 
-⬜ `Easy` &ensp;&ensp;&ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) 
+✅ `Easy` &ensp;&ensp;&ensp; [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) 
+✅ `Easy` &ensp;&ensp;&ensp; [100. Same Tree](https://leetcode.com/problems/same-tree) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) 
+✅ `Easy` &ensp;&ensp;&ensp; [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) 
+✅ `Easy` &ensp;&ensp;&ensp; [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) 
 
 ⬜ `Hard` &ensp;&ensp;&ensp; [Binary Tree Maximum Path Sum]()
 

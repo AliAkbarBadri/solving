@@ -330,7 +330,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [40. Reverse Bits](https://leetcode.com/problems/reverse-bits)
 
-✅ `Easy ` &ensp; [60. Missing Number](https://leetcode.com/problems/missing-number)
+✅ `Easy` &ensp;&ensp;&ensp; [60. Missing Number](https://leetcode.com/problems/missing-number)
 
 ⬜ `Medium` &ensp; [Sum of Two Integers]() 
 
