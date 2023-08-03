@@ -4,7 +4,6 @@ from binary_tree import TreeNode, stringToTreeNode, prettyPrintTree
 
 
 class Solution:
-
     def diameterOfBinaryTree(self, root: TreeNode) -> int:
         res = 0
 
@@ -14,8 +13,9 @@ class Solution:
                 return 0
             left = dfs(node.left)
             right = dfs(node.right)
-            res = max(res, left+right)
+            res = max(res, left + right)
             return 1 + max(left, right)
+
         dfs(root)
         return res
 

@@ -13,18 +13,17 @@ class Solution:
             head.next = dummy
             head = temp
         return False
-    
+
     def hasCycle2(self, head: ListNode) -> bool:
-        
         slow = fast = head
-        
+
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-            if slow==fast:
+            if slow == fast:
                 return True
         return False
-    
+
     def hasCycle3(self, head: ListNode) -> bool:
         nodes_set = set()
         if head is None:
@@ -35,6 +34,7 @@ class Solution:
             nodes_set.add(head)
             head = head.next
         return False
+
 
 sol = Solution()
 node1 = ListNode(1, None)

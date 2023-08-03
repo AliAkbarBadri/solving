@@ -16,7 +16,7 @@ class Solution:
         while len(heap) > 1:
             x, y = -heapq.heappop(heap), -heapq.heappop(heap)
             if x != y:
-                heapq.heappush(heap, -(x-y))
+                heapq.heappush(heap, -(x - y))
         heap.append(0)
         return -heap[0]
 

@@ -15,5 +15,5 @@ class Solution:
 
 
 sol = Solution()
-assert (sol.twoSum([2, 7, 11, 15], 9) == [0, 1])
-assert (sol.twoSum(nums=[3, 2, 4], target=6) == [1, 2])
+assert sol.twoSum([2, 7, 11, 15], 9) == [0, 1]
+assert sol.twoSum(nums=[3, 2, 4], target=6) == [1, 2]

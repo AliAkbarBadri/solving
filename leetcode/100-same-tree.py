@@ -13,16 +13,17 @@ class Solution:
             return False
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 
+
 sol = Solution()
 
 tree1 = stringToTreeNode("[1,2,3]")
 tree2 = stringToTreeNode("[1,2,3]")
-assert (sol.isSameTree(tree1, tree2) == True)
+assert sol.isSameTree(tree1, tree2) == True
 
 tree1 = stringToTreeNode("[1,2]")
 tree2 = stringToTreeNode("[1,null,2]")
-assert (sol.isSameTree(tree1, tree2) == False)
+assert sol.isSameTree(tree1, tree2) == False
 
 tree1 = stringToTreeNode("[1,2,1]")
 tree2 = stringToTreeNode("[1,1,2]")
-assert (sol.isSameTree(tree1, tree2) == False)
+assert sol.isSameTree(tree1, tree2) == False

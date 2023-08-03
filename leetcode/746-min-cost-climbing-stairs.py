@@ -8,10 +8,11 @@ class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         last_last = cost[-1]
         last = cost[-2]
-        for i in range(len(cost)-3, -1, -1):
+        for i in range(len(cost) - 3, -1, -1):
             curr = min(last, last_last) + cost[i]
             last_last, last = last, curr
         return min(last, last_last)
+
 
 sol = Solution()
 assert sol.minCostClimbingStairs([10, 15, 20]) == 15

@@ -10,7 +10,7 @@ class Solution:
             return 0
         return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
         ########################## BFS ########################
-        # if not root: 
+        # if not root:
         #     return 0
         # q = deque()
         # q.append(root)
@@ -31,7 +31,7 @@ class Solution:
 
         # st = [[root,1]]
         # maxdepth = 1
-        # while st: 
+        # while st:
         #     node, depth = st.pop()
 
         #     if node:
@@ -39,16 +39,14 @@ class Solution:
         #         st.append([node.left, depth+1])
         #         st.append([node.right, depth+1])
         # return maxdepth
-            
-
 
 
 sol = Solution()
 
 node = stringToTreeNode("[3,9,20,null,null,15,7]")
 # prettyPrintTree(node)
-assert (sol.maxDepth(node) == 3)
+assert sol.maxDepth(node) == 3
 
 node = stringToTreeNode("[1,null,2]")
 # prettyPrintTree(node)
-assert (sol.maxDepth(node) == 2)
+assert sol.maxDepth(node) == 2

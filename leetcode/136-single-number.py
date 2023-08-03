@@ -9,7 +9,8 @@ class Solution:
         sum_list = sum(nums)
         sum_set = sum(set(nums))
         nums.clear()
-        return 2*sum_set - sum_list
+        return 2 * sum_set - sum_list
+
     def singleNumber2(self, nums: List[int]) -> int:
         # a ^ a = 0
         # a ^ b ^ a = b
@@ -22,5 +23,5 @@ class Solution:
 
 sol = Solution()
 # assert (sol.singleNumber([2, 2, 1]) == 1)
-assert (sol.singleNumber([4, 1, 2, 1, 2]) == 4)
+assert sol.singleNumber([4, 1, 2, 1, 2]) == 4
 # assert (sol.singleNumber([1]) == 1)

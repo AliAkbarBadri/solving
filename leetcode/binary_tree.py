@@ -5,6 +5,7 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 def treeNodeToString(root):
     if not root:
         return "[]"
@@ -24,13 +25,14 @@ def treeNodeToString(root):
         queue.append(node.right)
     return "[" + output[:-2] + "]"
 
+
 def stringToTreeNode(input):
     input = input.strip()
     input = input[1:-1]
     if not input:
         return None
 
-    inputValues = [s.strip() for s in input.split(',')]
+    inputValues = [s.strip() for s in input.split(",")]
     root = TreeNode(int(inputValues[0]))
     nodeQueue = [root]
     front = 0
@@ -57,6 +59,7 @@ def stringToTreeNode(input):
             nodeQueue.append(node.right)
     return root
 
+
 def prettyPrintTree(node, prefix="", isLeft=True):
     if not node:
         print("Empty Tree")
@@ -70,12 +73,13 @@ def prettyPrintTree(node, prefix="", isLeft=True):
     if node.left:
         prettyPrintTree(node.left, prefix + ("    " if isLeft else "│   "), True)
 
+
 def main():
     import sys
 
     def readlines():
         for line in sys.stdin:
-            yield line.strip('\n')
+            yield line.strip("\n")
 
     lines = readlines()
     while True:
@@ -87,5 +91,5 @@ def main():
             break
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

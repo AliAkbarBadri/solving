@@ -17,7 +17,7 @@ class Solution:
         if abs(self.maxDepth(root.left) - self.maxDepth(root.right)) > 1:
             return False
         return self.isBalanced(root.left) and self.isBalanced(root.right)
-    
+
     def isBalanced(self, root: TreeNode) -> bool:
         def dfs(node: TreeNode) -> int:
             if not node:
@@ -27,10 +27,8 @@ class Solution:
             if left == -1 or right == -1 or abs(left - right) > 1:
                 return -1
             return 1 + max(left, right)
+
         return dfs(root) != -1
-
-
-
 
 
 sol = Solution()

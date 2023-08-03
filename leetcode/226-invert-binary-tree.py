@@ -1,14 +1,17 @@
 from binary_tree import TreeNode, prettyPrintTree
 
+
 class Solution:
     def invertTree(self, root: TreeNode) -> TreeNode:
         # prettyPrintTree(root)
-        if not(root):
+        if not (root):
             return None
-        root.left , root.right = root.right, root.left
+        root.left, root.right = root.right, root.left
         self.invertTree(root.left)
         self.invertTree(root.right)
         return root
+
+
 sol = Solution()
 
 node1 = TreeNode(2)

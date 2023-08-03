@@ -11,6 +11,7 @@ class ListNode:
             curr = curr.next
         return string[:-3]
 
+
 def convert_list_to_linkedlist(lst: list) -> ListNode:
     head = dummy = ListNode()
     for item in lst:
