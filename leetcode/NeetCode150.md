@@ -224,7 +224,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) 
 
-⬜ `Easy` &ensp;&ensp;&ensp; [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) 
+✅ `Easy` &ensp;&ensp;&ensp; [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) 
 
 ⬜ `Medium` &ensp; [House Robber]() 
 
