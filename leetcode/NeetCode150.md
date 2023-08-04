@@ -24,7 +24,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-⬜ `Medium` &ensp; [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+✅ `Medium` &ensp; [167. Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ⬜ `Medium` &ensp; [3Sum](https://leetcode.com/problems/3sum/)
 
