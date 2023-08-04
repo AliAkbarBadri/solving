@@ -8,7 +8,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-⬜ `Medium` &ensp; [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+✅ `Medium` &ensp; [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ⬜ `Medium` &ensp; [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 

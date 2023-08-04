@@ -122,7 +122,7 @@
 
 ⬜ `Medium` &ensp; [Longest Repeating Character Replacement]()
 
-⬜ `Medium` &ensp; [Group Anagrams]()
+✅ `Medium` &ensp; [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ⬜ `Medium` &ensp; [Longest Palindromic Substring]()
 
