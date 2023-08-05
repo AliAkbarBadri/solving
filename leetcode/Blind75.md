@@ -118,7 +118,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 
 
-⬜ `Medium` &ensp; [Longest Substring Without Repeating Characters]()
+✅ `Medium` &ensp; [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ⬜ `Medium` &ensp; [Longest Repeating Character Replacement]()
 
