@@ -70,7 +70,7 @@
 
 ⬜ `Medium` &ensp; [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
-⬜ `Medium` &ensp; [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+✅ `Medium` &ensp; [153. Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 ⬜ `Medium` &ensp; [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 

@@ -12,7 +12,7 @@
 
 ⬜ `Medium` &ensp; [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
-⬜ `Medium` &ensp; [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+✅ `Medium` &ensp; [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 ⬜ `Medium` &ensp; [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
