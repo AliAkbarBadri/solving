@@ -92,7 +92,7 @@
 
 ⬜ `Medium` &ensp; [Copy List With Random Pointer]() 
 
-⬜ `Medium` &ensp; [Add Two Numbers]() 
+✅ `Medium` &ensp; [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) 
 
 ⬜ `Medium` &ensp; [Find The Duplicate Number]() 
 
