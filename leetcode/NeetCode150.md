@@ -12,7 +12,7 @@
 
 ⬜ `Medium` &ensp; [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-⬜ `Medium` &ensp; [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+✅ `Medium` &ensp; [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ⬜ `Medium` &ensp; [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 

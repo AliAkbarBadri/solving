@@ -6,7 +6,7 @@
 
 ✅ `Easy` &ensp;&ensp;&ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 
-⬜ `Medium` &ensp; [242. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+✅ `Medium` &ensp; [242. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ⬜ `Medium` &ensp; [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
