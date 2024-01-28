@@ -1,4 +1,10 @@
 # 🧠  Blind 75
+
+## ALL
+- `Easy` &ensp;&ensp;&ensp; 19/19
+- `Medium` &ensp; 4/50
+- `Hard` &ensp;&ensp;&ensp; 0/7
+- 
 ## Array
 ✅ `Easy` &ensp;&ensp;&ensp; [1. Two Sum](https://leetcode.com/problems/two-sum/) 
 

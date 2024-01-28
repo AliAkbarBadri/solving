@@ -1,5 +1,9 @@
 # 🚀  NeetCode 150
-
+## ALL
+- `Easy` &ensp;&ensp;&ensp; 28/28
+- `Medium` &ensp; 11/100
+- `Hard` &ensp;&ensp;&ensp; 0/22
+  
 ## Arrays & Hashing
 
 ✅ `Easy` &ensp;&ensp;&ensp; [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -160,13 +164,13 @@
 
 ## Backtracking
 
-⬜ `Medium` &ensp; [Subsets]() 
+✅ `Medium` &ensp; [Subsets](https://leetcode.com/problems/subsets) 
 
-⬜ `Medium` &ensp; [Combination Sum]() 
+✅ `Medium` &ensp; [Combination Sum](https://leetcode.com/problems/combination-sum/) 
 
-⬜ `Medium` &ensp; [Permutations]() 
+✅ `Medium` &ensp; [Permutations](https://leetcode.com/problems/permutations) 
 
-⬜ `Medium` &ensp; [Subsets II]() 
+✅ `Medium` &ensp; [Subsets II](https://leetcode.com/problems/subsets-ii) 
 
 ⬜ `Medium` &ensp; [Combination Sum II]() 
 
@@ -174,7 +178,7 @@
 
 ⬜ `Medium` &ensp; [Palindrome Partitioning]() 
 
-⬜ `Medium` &ensp; [Letter Combinations of a Phone Number]() 
+✅ `Medium` &ensp; [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) 
 
 ⬜ `Hard` &ensp;&ensp;&ensp; [N Queens]() 
 
