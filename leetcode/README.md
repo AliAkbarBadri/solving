@@ -1,7 +1,7 @@
 # 🚀  NeetCode 150
 ## ALL
 - `Easy` &ensp;&ensp;&ensp; 28/28
-- `Medium` &ensp; 12/100
+- `Medium` &ensp; 13/100
 - `Hard` &ensp;&ensp;&ensp; 0/22
   
 ## Arrays & Hashing
@@ -58,7 +58,7 @@
 
 ⬜ `Medium` &ensp; [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
-⬜ `Medium` &ensp; [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+✅ `Medium` &ensp; [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ⬜ `Medium` &ensp; [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
