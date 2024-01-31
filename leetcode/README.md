@@ -1,7 +1,7 @@
 # 🚀  NeetCode 150
 ## ALL
 - `Easy` &ensp;&ensp;&ensp; 28/28
-- `Medium` &ensp; 11/100
+- `Medium` &ensp; 12/100
 - `Hard` &ensp;&ensp;&ensp; 0/22
   
 ## Arrays & Hashing
@@ -172,7 +172,7 @@
 
 ✅ `Medium` &ensp; [Subsets II](https://leetcode.com/problems/subsets-ii) 
 
-⬜ `Medium` &ensp; [Combination Sum II]() 
+✅ `Medium` &ensp; [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) 
 
 ⬜ `Medium` &ensp; [Word Search]() 
 
